@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: rgb(133, 196, 252);
+    color: white;
+}
+header h1 {
+    display: inline-block;
+    font-size: 30px;
+}
+
+header nav {
+    padding-top: 20px;
+    margin-right: 10px;
+    float: right;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.about-me {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+}
+
+.about-me img {
+    width: 50%;
+}
