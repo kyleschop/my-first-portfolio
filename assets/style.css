@@ -70,7 +70,7 @@ a {
     display: flex;
     flex-direction: column;
 }
-.projects header {
+.projects a {
     font-size: large;
     padding: 20px;
     color: black;
