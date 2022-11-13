@@ -43,3 +43,10 @@ a {
 .about-me img {
     width: 50%;
 }
+
+.about-me p {
+    font-size: 20px;
+    padding: 0 15px 0 15px;
+    font-style: oblique; 
+    text-align: center;
+}
