@@ -61,3 +61,13 @@ footer nav ul {
    justify-content: space-around;
    align-items: center;
 }
+
+.github {
+    color: black;
+    font-size: 30px;
+}
+
+.github:hover {
+    color: white;
+    font-size: 35px;
+}
