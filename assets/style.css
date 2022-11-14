@@ -110,3 +110,21 @@ footer nav ul {
     color: white;
     font-size: 35px;
 }
+
+@media screen and (max-width: 586px) {
+    header {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 500px)  {
+    .about-me p {
+        font-size: 12px;
+    }
+    .projects img {
+        width: 50%;
+    }
+    .projects img:hover {
+        width: 55%;
+    }
+}
